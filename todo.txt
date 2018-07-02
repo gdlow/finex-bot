@@ -1,0 +1,7 @@
+1. implement place order functions in buy sell, closeshort and closelong positions
+2. implement running graph - does plotly support this?
+3. deployment to heroku - does it run forever and ever? what are some other options?
+4. logging - besides console, what other methods are there I can plug in to? I don't want to code a FB bot.
+5. testing - for 1 week. what decisions does the bot make? Does it break down? Is a running loop the best implementation?
+
+6. Usability on other platforms eg. Bitstamp - just need API to: 1. take in price and date info 2. place orders 3. if backtest chart available even better.
